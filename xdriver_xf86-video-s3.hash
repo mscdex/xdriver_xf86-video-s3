@@ -1,0 +1,4 @@
+# From https://lists.freedesktop.org/archives/xorg/2019-July/059872.html
+sha256  cf12541557d88107364895273e384f97836b428eeb1e54ed66511d69639562c8  xf86-video-s3-0.7.0.tar.bz2
+# Locally calculated
+sha256  ec03712fa324f7df1a3a4b673abec3431e4c0f5df638251976023a1db8598e29  COPYING
